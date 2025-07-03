@@ -32,20 +32,6 @@ This project demonstrates how to train and evaluate Support Vector Machine (SVM)
 
    * Evaluate both models using 5-fold cross-validation (`cv=5`)
 
-##  Usage
-
-```bash
-pip install pandas numpy matplotlib scikit-learn
-python svm_model.py
-```
-
-##  File Structure
-
-```
-├── breast-cancer.csv
-├── svm_model.py
-├── README.md
-```
 
 ##  Notes
 
